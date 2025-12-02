@@ -1,4 +1,4 @@
-package countries
+package model
 
 type Country struct {
 	Code string `json:"code"`

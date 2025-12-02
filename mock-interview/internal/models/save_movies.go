@@ -1,4 +1,4 @@
-package save
+package model
 
 import (
 	"time"
